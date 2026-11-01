@@ -23,7 +23,7 @@ Tools I use in projects and studies:
 - **Cloud:** AWS Lambda, API Gateway, DynamoDB, S3, Glue, Athena
 - **Development:** Git, GitHub, testing, documentation
 
-### Selected projects
+### Projects
 
 **WhatsApp Customer Service Bot**  
 Customer service automation for a pizzeria: answers common questions, directs customers to the ordering website, and logs interactions.  
